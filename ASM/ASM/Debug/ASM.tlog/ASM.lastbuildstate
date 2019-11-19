@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
-Debug|Win32|D:\Fast\Semester 3\COAL\finalProject\BST-Assmbly-Language-MASM\ASM\|
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
+Debug|Win32|E:\FAST-NUCES\CS SEM03 SEC A\Coal\Project\BST-Assmbly-Language-MASM\ASM\|
